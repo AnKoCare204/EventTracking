@@ -1,0 +1,19 @@
+{
+  "name": "com.antq.event-tracking-sdk",
+  "version": "1.0.0",
+  "displayName": "Event Tracking SDK",
+  "description": "Unity SDK tích hợp Event Tracking",
+  "unity": "6000.0",
+  "unityRelease": "",
+  "keywords": [
+    "ads",
+    "advertisement"
+  ],
+  "author": {
+    "name": "An Trinh",
+    "email": "antq@abigames.com.vn",
+    "url": ""
+  },
+  "dependencies": {}
+}
+
